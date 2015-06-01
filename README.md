@@ -38,3 +38,4 @@ Inside the public directory there will be a js directory, a css directory, an im
 Feel free to add onto this structure if desired. The listed files are the base requirements only. We will be populating the js/models, js/collections, js/views, and js/routers directories with files for your client-side application the next two weeks. Also feel free to start adding tests for your application as well. They are not required, but a tests directory has been supplied for your application to use for this purpose.
 
 This assignment is due by Saturday, May 30th by 7pm. Once grading has been completed, a :+1: comment will be added to the pull request and the pull request will be closed.
+https://github.com/joshlin/JS300_food_trucks
